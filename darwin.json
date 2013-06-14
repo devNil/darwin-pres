@@ -1,0 +1,127 @@
+{
+    "Title": "Test",
+    "CustomStyle":[],
+    "Slides": [
+        {
+            "Title": "Darwin",
+            "Class": [
+                "title"
+            ],
+            "Sclass": [
+                "blue"
+            ],
+	    "Aout":"leftOut",
+            "Content": "<img src=\"http://www.blogcdn.com/downloadsquad.switched.com/media/2009/11/go_gopher_color_logo_250x249[1].png\">",
+            "Notes": "Hier reden!!!"
+    },
+        {
+            "Title": "Inhalt der Präsentation",
+            "Class": [
+            ],
+            "Sclass": [
+            ],
+            "Content": "<ul><li>Darwin</li><li>Golang</li><li>Websockets</li><li>Demo</li><ul>",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Darwin - Konzept",
+            "Class": [
+		"medium"
+            ],
+            "Sclass": [
+            ],
+            "Content": "<p>Digital Artificial Random Walking INtelligence</p><ul><li>AI</li><li>Tron-Klon</li></ul>",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Darwin - Realisierung",
+            "Class": [
+		"medium"
+            ],
+            "Sclass": [
+            ],
+            "Content": "<ul><li>Client-Server Model</li><li>Tron-Klon</li><li>Golang/HTML5</li></ul>",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Golang",
+            "Class": [
+            ],
+            "Sclass": [
+            ],
+            "Content": "<ul><li>Entstehung</li></ul>",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Websockets",
+            "Class": [
+            ],
+            "Sclass": [
+            ],
+            "Content": "<ul><li>Entstehung</li></ul>",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Demo",
+            "Class": [
+		"medium"
+            ],
+            "Sclass": [
+            ],
+            "Content": "<ul><li>Entstehung</li></ul>",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Zukunft",
+            "Class": [
+            ],
+            "Sclass": [
+            ],
+            "Content": "<ul><li>fp</li><li>fp-shell</li></ul>",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Fragen?",
+            "Class": [
+            ],
+            "Sclass": [
+		"alert"
+            ],
+            "Content": "<ul><li>Entstehung</li></ul>",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Vielen Dank",
+            "Class": [
+            ],
+            "Sclass": [
+            ],
+            "Content": "",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn"
+    },
+        {
+            "Class": [
+            ],
+            "Sclass": [
+                "blackout"
+            ]
+    }
+    ]
+}
