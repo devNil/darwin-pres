@@ -20,7 +20,7 @@
             ],
             "Sclass": [
             ],
-            "Content": "<ul><li>Darwin</li><li>Golang</li><li>Websockets</li><li>Demo</li><ul>",
+            "Content": "<ul><li>Darwin</li><li>Golang</li><li>Websockets</li><li>Demo</li><li>Fragen</li><ul>",
             "Notes": "Hier reden!!!",
             "Ain": "rightIn",
             "Aout": "leftOut"
@@ -32,7 +32,7 @@
             ],
             "Sclass": [
             ],
-            "Content": "<p>Digital Artificial Random Walking INtelligence</p><ul><li>AI</li><li>Tron-Klon</li></ul>",
+            "Content": "<p>Digital Artificial Random Walking INtelligence</p><ul><li>AI</li><li>Tron-Klon</li><li>Objective-C</li><li>Lokal</li></ul>",
             "Notes": "Hier reden!!!",
             "Ain": "rightIn",
             "Aout": "leftOut"
@@ -52,21 +52,59 @@
         {
             "Title": "Golang",
             "Class": [
+        "medium"
             ],
             "Sclass": [
             ],
-            "Content": "<ul><li>Entstehung</li></ul>",
-            "Notes": "Hier reden!!!",
+            "Content": "<h2>Enstehung:</h2><ul><li>Version 1.0 2009</li><li>Autoren: Rob Pike, Robert Griesemer & Ken Thompson</li></ul>            <h2>Warum:</h2><ul><li>Kompilierbar</li><li>Statisch typisiert</li><li>Concurrency</li><li>Garbage Collection</li></ul>",
+            "Notes": "",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Slices",
+            "Class": [
+        "medium"
+            ],
+            "Sclass": [
+            ],
+            "Content": "<iframe src=\"http://play.golang.org/p/N0w_9pQipK\" width=\"100%\" height=\"60%\"></iframe>",
+            "Notes": "",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Channel",
+            "Class": [
+        "medium"
+            ],
+            "Sclass": [
+            ],
+            "Content": "<iframe src=\"http://play.golang.org/p/cVYOLm12mw\" width=\"100%\" height=\"60%\"></iframe>",
+            "Notes": "",
             "Ain": "rightIn",
             "Aout": "leftOut"
     },
         {
             "Title": "Websockets",
             "Class": [
+                "medium"
             ],
             "Sclass": [
             ],
-            "Content": "<ul><li>Entstehung</li></ul>",
+            "Content": "<h2>Entstehung</h2><ul><li>Entwurf 2007</li><li>Ian Hickson</li></ul><h2>Warum:</h2><ul><li>Verdindung Client-Server</li><li>TCP/IP</li><li>Performance</li></ul>",
+            "Notes": "Hier reden!!!",
+            "Ain": "rightIn",
+            "Aout": "leftOut"
+    },
+        {
+            "Title": "Protokoll",
+            "Class": [
+                "medium"
+            ],
+            "Sclass": [
+            ],
+            "Content": "<ul><li>cmdId</li><li>cmdValue</li></ul>",
             "Notes": "Hier reden!!!",
             "Ain": "rightIn",
             "Aout": "leftOut"
@@ -78,7 +116,7 @@
             ],
             "Sclass": [
             ],
-            "Content": "<ul><li>Entstehung</li></ul>",
+            "Content": " ",
             "Notes": "Hier reden!!!",
             "Ain": "rightIn",
             "Aout": "leftOut"
@@ -97,11 +135,12 @@
         {
             "Title": "Fragen?",
             "Class": [
+                "title"
             ],
             "Sclass": [
-		"alert"
+		"blue"
             ],
-            "Content": "<ul><li>Entstehung</li></ul>",
+            "Content": " ",
             "Notes": "Hier reden!!!",
             "Ain": "rightIn",
             "Aout": "leftOut"
@@ -109,8 +148,10 @@
         {
             "Title": "Vielen Dank",
             "Class": [
+                "title"
             ],
             "Sclass": [
+                "blue"
             ],
             "Content": "",
             "Notes": "Hier reden!!!",
